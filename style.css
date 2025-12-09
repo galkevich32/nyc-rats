@@ -1,26 +1,26 @@
-<style>
-     h1{
-        font-family: "Rubik Mono One", serif;
-        font-size: 80px;
-        color:rgb(41, 117, 101);
-        /* padding: 40px; */
+h1{
+font-family: "Papyrus";
+        font-size: 48px;
+        color: white;
         text-align: center;
      }
-     h2{
-        font-family: "Itim", serif;
-        font-size: 40px;
-        color:rgb(235, 129, 191);
-     }
+
+.highlight{
+  color:red;
+}
+
+h2{
+font-family: "Arial";
+font-size: 24px;
+color: white;
+}
     
-     body{
-        font-family: "Newsreader", serif;
-        font-size: 20px;
-        color:rgb(0, 0, 0);
-        background-color: #fafeff;
-        margin: 100px;
-     }
-     img{
-        width:100%;
-        height:auto;
-     }
-</style></head>
+body{
+font-family: "Arial";
+font-size: 20px;
+color: white;
+background-color: black;
+margin: 100px;
+}
+
+</head>
