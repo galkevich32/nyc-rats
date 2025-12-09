@@ -1,0 +1,26 @@
+<style>
+     h1{
+        font-family: "Rubik Mono One", serif;
+        font-size: 80px;
+        color:rgb(41, 117, 101);
+        /* padding: 40px; */
+        text-align: center;
+     }
+     h2{
+        font-family: "Itim", serif;
+        font-size: 40px;
+        color:rgb(235, 129, 191);
+     }
+    
+     body{
+        font-family: "Newsreader", serif;
+        font-size: 20px;
+        color:rgb(0, 0, 0);
+        background-color: #fafeff;
+        margin: 100px;
+     }
+     img{
+        width:100%;
+        height:auto;
+     }
+</style></head>
