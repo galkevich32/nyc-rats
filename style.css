@@ -1,4 +1,4 @@
-.h1{
+h1{
 font-family: "Papyrus";
 font-size: 48px;
 color: white;
@@ -9,13 +9,13 @@ text-align: center;
 color:red;
 }
 
-.h2{
+h2{
 font-family: "Arial";
 font-size: 24px;
 color: white;
 }
     
-.body{
+body{
 font-family: "Arial";
 font-size: 20px;
 color: white;
