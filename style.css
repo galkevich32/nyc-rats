@@ -1,6 +1,6 @@
 h1{
 font-family: "Papyrus";
-font-size: 48px;
+font-size: 52px;
 color: white;
 text-align: center;
 }
@@ -11,9 +11,11 @@ color:red;
 
 h2{
 font-family: "Arial";
-font-size: 30px;
+font-size: 26px;
 color: white;
 text-align: center;
+margin-top: -25px;
+margin-bottom: 30px;
 }
     
 body{
