@@ -22,5 +22,6 @@ font-family: "Arial";
 font-size: 18px;
 color: white;
 background-color: black;
-margin: 140px;
+padding: 140px;
+margin: 0;
 }
